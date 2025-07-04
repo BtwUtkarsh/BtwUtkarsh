@@ -52,6 +52,12 @@
   <a href="https://leetcode.com/YOUR-ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
   <a href="https://codeforces.com/profile/YOUR-ID"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/></a>
 </p>
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/BtwUtkarsh/BtwUtkarsh/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 

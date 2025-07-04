@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 C++ Enthusiast | 📈 DSA Problem Solver</h3>
+<h3 align="center"> Full Stack Developer |  C++ Programmer | DSA Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Full+Stack+Developer;DSA+Lover;Open+Source+Contributor" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 🔧 Languages & Tools
+###  Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BtwUtkarsh&show_icons=true&theme=radical" height="150"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 
 
 <p align="center">
   <img src="https://github.com/BtwUtkarsh/BtwUtkarsh/blob/output/github-contribution-grid-snake.svg" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🌐 Connect with me
+###  Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-singh-8807b9278" target="_blank">
@@ -64,7 +64,6 @@
   </a>
 </p>
 
----
-<!-- Customize and grow this README as you grow! -->
+
 
 

@@ -47,22 +47,24 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://leetcode.com/YOUR-ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
-  <a href="https://codeforces.com/profile/YOUR-ID"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/></a>
+  <a href="https://www.linkedin.com/in/utkarsh-singh-8807b9278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:us30095@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/utkarsh_79chandel/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://codolio.com/profile/Utkarsh79/card">
+    <img src="https://img.shields.io/badge/Codolio-3B5998?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1v69_dD8Z3WPusqcALjJizxhC2S4BvCnj/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
 </p>
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/BtwUtkarsh/BtwUtkarsh/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 ---
+<!-- Customize and grow this README as you grow! -->
 
-<!-- Feel free to personalize this further -->
-
-
-Let me know, and I’ll provide the ready-to-paste code + setup instructions.
 

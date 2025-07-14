@@ -63,6 +63,13 @@
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
+## 🏅 Certifications
+
+[![Certification: React](https://img.shields.io/badge/Certification-React-blue)](https://www.hackerrank.com/certificates/5e2f93e0c123)
+
+[![Certification: Cybersecurity](https://img.shields.io/badge/Certification-Cybersecurity-blue)](https://example.com/your-cyber-cert-link)
+
+
 
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Utkarsh Singh</h1>
+<h1 align="center"> Hello, I'm Utkarsh Singh</h1>
 <h3 align="center">C++ Programmer |Full Stack Developer| DSA</h3>
 
 <p align="center">
@@ -11,18 +11,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 👨‍💻 Currently learning: **MERN Stack** and **Advanced DSA**
-- 🔧 Tech Stack: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `FastAPI`, `C++`, `MySQL`
-- 💬 Ask me about: DSA patterns, C++ concepts, or Full Stack projects
-- 📫 How to reach me: [Email](mailto:us30095@gmail.com) | [LinkedIn](https://www.linkedin.com/in/utkarsh-singh-8807b9278)
-- 🧑‍💻 Portfolio: [My Codolio Profile](https://codolio.com/profile/Utkarsh79/card)
-- 📄 [My Resume](https://drive.google.com/file/d/1v69_dD8Z3WPusqcALjJizxhC2S4BvCnj/view?usp=sharing)
+-  Currently learning: **MERN Stack** and **Advanced DSA**
+-  Tech Stack: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `FastAPI`, `C++`, `MySQL`
+-  Ask me about: DSA patterns, C++ concepts, or Full Stack projects
+-  How to reach me: [Email](mailto:us30095@gmail.com) | [LinkedIn](https://www.linkedin.com/in/utkarsh-singh-8807b9278)
+-  Portfolio: [My Codolio Profile](https://codolio.com/profile/Utkarsh79/card)
+-  [My Resume](https://drive.google.com/file/d/1v69_dD8Z3WPusqcALjJizxhC2S4BvCnj/view?usp=sharing)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BtwUtkarsh&show_icons=true&theme=radical" height="150"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github.com/BtwUtkarsh/BtwUtkarsh/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
@@ -56,14 +56,14 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - [React Basics – HackerRank](https://www.hackerrank.com/certificates/5e2f93e0c123)
 - [Cybersecurity Fundamentals](https://example.com/your-cyber-cert-link)
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-singh-8807b9278" target="_blank">

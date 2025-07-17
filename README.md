@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Utkarsh Singh</h1>
-<h3 align="center">Aspiring Full Stack Developer | C++ Programmer | DSA Enthusiast</h3>
+<h3 align="center">C++ Programmer |Full Stack Developer| DSA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Tech+Learner;Full+Stack+Developer+in+Progress;DSA+Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />

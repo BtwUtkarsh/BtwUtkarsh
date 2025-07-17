@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate beginner developer exploring Web, DSA & AI</h3>
 
 - 🔭 I’m currently working on **Web Development & DSA**
@@ -6,6 +7,13 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, MySQL, C++, React**
 - 📫 How to reach me: **utkarshsingh@example.com**
 - ⚡ Fun fact: I love building things that solve real problems.
+
+---
+
+### 💻 Coding Profiles
+
+- 🚀 Check out my **DSA progress and solved problems** on **Codolio**  
+  🔗 [My Codolio Profile](https://www.codolio.io/BtwUtkarsh)
 
 ---
 
@@ -46,6 +54,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 

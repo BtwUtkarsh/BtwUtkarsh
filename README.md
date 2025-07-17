@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
+
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate beginner developer exploring Web, DSA & AI</h3>
 

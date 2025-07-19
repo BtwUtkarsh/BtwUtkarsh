@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">Aspiring Software Developer | Exploring Web Development, DSA & AI</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Tech Mahindra (Project Intern)
 
-*Jan 2025 – Present*
+*April 2025 – Present*
 
 * Contributing to the ARC AGI (Artificial General Intelligence) project.
 * Working on modules involving Natural Language Processing (NLP) and Large Language Models (LLMs).

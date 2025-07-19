@@ -11,13 +11,6 @@
 * 📫 Reach out via email: **[us30095@gmail.com](mailto:us30095@gmail.com)**
 
 ---
-
-# 👨‍💻 About Me
-
-Computer Science graduate passionate about Full Stack Development and AI. Experienced in building scalable web applications and integrating intelligent automation using LLMs. Open to learning, collaboration, and solving real-world problems through tech.
-
----
-
 ## 💼 Experience
 
 ### 👨‍💻 Tech Mahindra (Project Intern)
@@ -82,6 +75,7 @@ I'm always excited to collaborate or chat about:
 * DSA Problem Solving (C++, LeetCode)
 * UI/UX and Frontend Design
 * Building real-time APIs and applications
+
 
 
 

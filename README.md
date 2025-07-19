@@ -12,8 +12,8 @@
 
 ###  Coding Profiles
 
-- 🚀 Check out my **DSA progress and solved problems** on **Codolio**  
-  🔗 [My Codolio Profile](https://www.codolio.io/BtwUtkarsh)
+-  Check out my **DSA progress and solved problems** on **Codolio**  
+   [My Codolio Profile](https://www.codolio.io/BtwUtkarsh)
 
 ---
 

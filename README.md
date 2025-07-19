@@ -8,8 +8,6 @@
 * 💼 Currently working as a **Project Intern at Tech Mahindra**, contributing to the **ARC AGI (Artificial General Intelligence)** initiative, with a strong focus on **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**
 * 🔧 Skilled in **Full Stack Development**, with hands-on experience in both frontend and backend technologies
 * 💻 Passionate about **solving real-world problems** through code, particularly in the domains of **AI**, **Web Development**, and **Data Structures & Algorithms**
-* 📘 Constantly learning and currently focused on **React.js**, **Next.js**, and **System Design**
-* 🗣️ Open to discussions about **HTML, CSS, JavaScript, React, MySQL, C++**, and more
 * 📫 Reach out via email: **[us30095@gmail.com](mailto:us30095@gmail.com)**
 
 ---

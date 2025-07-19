@@ -12,89 +12,77 @@
 
 ---
 
-### 💼 Experience
+# 👨‍💻 About Me
 
-#### 👨‍💻 Tech Mahindra (Project Intern)
-
-Currently contributing to the **ARC AGI (Artificial General Intelligence)** project. Working on modules involving **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to push the boundaries of intelligent automation and reasoning.
-
-#### 🏢 IBM SkillBuild (Full Stack Developer Intern)
-
-Created a full-stack **Job Portal Management System** using **HTML**, **CSS**, **JavaScript**, and **MySQL**. Implemented login/registration, job posting, and role-based access using **OOP** principles.
+Computer Science graduate passionate about Full Stack Development and AI. Experienced in building scalable web applications and integrating intelligent automation using LLMs. Open to learning, collaboration, and solving real-world problems through tech.
 
 ---
 
-### 🚀 Projects
+## 💼 Experience
 
-#### 🧠 Vision & Voice (Research Project)
+### 👨‍💻 Tech Mahindra (Project Intern)
 
-Built a real-time voice-based medical assistant using **FastAPI**, **GPT-4**, **Coqui TTS**, and **SpeechRecognition**. Enables dynamic doctor-patient conversations with optional support for analyzing medical images.
+*Jan 2025 – Present*
 
-#### 💼 Personal Projects
+* Contributing to the ARC AGI (Artificial General Intelligence) project.
+* Working on modules involving Natural Language Processing (NLP) and Large Language Models (LLMs).
+* Helping push the boundaries of intelligent automation and reasoning.
 
-* **Lost and Found Web App** – Submit, track, and claim lost items with an intuitive UI
-* **Weather App** – Displays live weather updates using public APIs and responsive design
-* **Voice Assistant** – Built with web technologies to accept and respond to basic voice commands
-* **Travel Agency Website** – UI/UX focused design created using **Figma**
+### 🏢 IBM SkillBuild (Full Stack Developer Intern)
 
----
+*2023*
 
-### 🎓 Education
-
-Graduated from **Mandsaur University** with a B.E. in **Computer Science and Engineering** (2021–2025)
+* Developed a Job Portal Management System with HTML, CSS, JavaScript, and MySQL.
+* Implemented user login/registration, job posting, and role-based access using object-oriented principles.
 
 ---
 
-### 📩 Ping Me!
+## 🎓 Education
 
-Always excited to discuss:
-
-* ✨ LLMs, NLP, and Generative AI
-* 🛠️ Full Stack Development (React, FastAPI, MySQL)
-* 🧮 DSA Problem Solving (C++, LeetCode)
-* 🎨 UI/UX and Frontend Design
-* ⏳ Building real-time APIs and applications
+**B.E. in Computer Science and Engineering**
+Mandsaur University (2021–2025)
 
 ---
 
-### 🔗 Coding Profiles
+## 📜 Certifications
 
-* 🧠 **[Codolio](https://www.codolio.io/BtwUtkarsh)** — Track my DSA progress & solved problems
+* 🟩 [CSS (Basic) – HackerRank](https://www.hackerrank.com/certificates/5f32a64cb18a)
+  *Earned on: 13 March, 2025*
+  Covers fundamental concepts such as selectors, display, box model, positioning, and responsive styling.
 
----
+* 🟨 [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/3399ece648e1)
+  *Earned on: 9 July, 2025*
+  Topics include variables, loops, conditionals, arrays, functions, ES6 features, and scope.
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,cpp,python,mysql,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BtwUtkarsh&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwUtkarsh&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BtwUtkarsh&layout=compact&theme=radical" />
-</p>
+* 🟦 [React (Basic) – HackerRank](https://www.hackerrank.com/certificates/da51265acf28)
+  *Earned on: 26 February, 2025*
+  Topics include Basic Routing, Rendering Elements, State Management (Internal Component State), Handling Events, ES6, and Form Validation.
 
 ---
 
-### 📞 Connect with Me
+## 🛠 Skills & Badges
 
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:us30095@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+
+---
+
+## 👋 Ping Me!
+
+I'm always excited to collaborate or chat about:
+
+* LLMs, NLP, and Generative AI
+* Full Stack Development (React, FastAPI, MySQL)
+* DSA Problem Solving (C++, LeetCode)
+* UI/UX and Frontend Design
+* Building real-time APIs and applications
+
 
 
 
